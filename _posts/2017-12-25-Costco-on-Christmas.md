@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Ho ho ho Christmas ho"
+title: "Christmas"
 date: 2017-12-25
 ---
 
-Cranberry pineapple sausage. Apple pie (not mile high but still very heavy). Also some avocados because who don't like guacs.
+This year is a White Christmas in Boston. I'm eating a lot of apple pie slices and homemade cranberry+apple butter with cheese crumbs.
