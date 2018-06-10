@@ -1,3 +1,3 @@
-# [haochenwang39.github.io](https://haochenwang39.github.io/)
+# [haochenww.github.io](https://haochenww.github.io/)
 
 Personal website created using Jekyll and GitHub Pages.
